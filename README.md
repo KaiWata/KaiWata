@@ -6,7 +6,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a Student in Osaka.<br>
-[hit&amp;blow homage](https://kaiwata.github.io/Contents/)
+[ポートフォリオ](https://kaiwata.github.io/Contents/)
 <br>
 
 
